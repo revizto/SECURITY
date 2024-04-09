@@ -1,4 +1,4 @@
-![GitHub Logo](https://mma.prnewswire.com/media/2150956/Revizto_Logo_1.jpg?p=facebook)
+![GitHub Logo](https://revizto.com/wp-content/uploads/2020/07/revizto-logo.png)
 # Project Name
 
 A short description of your project and what it does.

@@ -1,4 +1,4 @@
-![GitHub Logo]([https://revizto.com/wp-content/uploads/2021/02/logo.svg](https://exhibitormanual.digitalconstructionweek.com/wp-content/uploads/2022/12/DCW21-logo-online-REVIZTO-1.png))
+![GitHub Logo]([https://exhibitormanual.digitalconstructionweek.com/wp-content/uploads/2022/12/DCW21-logo-online-REVIZTO-1.png])
 # Project Name
 
 A short description of your project and what it does.

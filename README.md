@@ -1,4 +1,4 @@
-![GitHub Logo]([https://revizto.com/wp-content/uploads/2021/02/logo.svg])
+![GitHub Logo](https://revizto.com/wp-content/uploads/2021/02/logo.svg)
 # Project Name
 
 A short description of your project and what it does.

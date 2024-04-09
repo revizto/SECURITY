@@ -1,3 +1,4 @@
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 # Project Name
 
 A short description of your project and what it does.

@@ -7,12 +7,12 @@ Our website https://revizto.com
 
 ## Getting Started
 
-[All setup guidlines could be found here.](https://help.revizto.com/hc/en-us/categories/360000126056-Getting-started)
+[All setup guidlines could be found here](https://help.revizto.com/hc/en-us/categories/360000126056-Getting-started)
 
 
 ### Installation
 
-[All installation giudes can be found here.](https://help.revizto.com/hc/en-us/articles/360001466955-Installing-Revizto)
+[All installation giudes can be found here](https://help.revizto.com/hc/en-us/articles/360001466955-Installing-Revizto)
 
 
 ## License

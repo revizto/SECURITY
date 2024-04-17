@@ -2,9 +2,9 @@
 
 ## Reporting a Vulnerability
 
-At [Your Organization/Project Name], we take security seriously. We appreciate your efforts to responsibly disclose any vulnerabilities you find.
+At Revizto, we take security seriously. We appreciate your efforts to responsibly disclose any vulnerabilities you find.
 
-To report a security vulnerability, please email [security@example.com](mailto:security@example.com) with a detailed description of the vulnerability and steps to reproduce it. Please allow some time for us to respond and address the issue before making any information public.
+To report a security vulnerability, please submit a report at https://github.com/revizto/SECURITY/security/advisories with a detailed description of the vulnerability and steps to reproduce it. Please allow some time for us to respond and address the issue before making any information public.
 
 ## Vulnerability Disclosure Process
 
@@ -27,15 +27,8 @@ Upon receiving your report, we will follow these general steps:
 - **Encrypt sensitive data:** Use encryption to protect sensitive data both at rest and in transit.
 
 - **Regularly perform security audits:** Conduct regular security audits and code reviews to identify and address potential security vulnerabilities.
-
-## Resources
-
-- [OWASP Top Ten](https://owasp.org/www-project-top-ten/): The OWASP Top Ten provides a list of the most critical security risks to web applications.
-
-- [GitHub Security Advisories](https://github.com/advisories): GitHub Security Advisories provides a list of security advisories for open source projects.
-
-- [NIST National Vulnerability Database](https://nvd.nist.gov/): The NIST National Vulnerability Database provides a comprehensive database of known vulnerabilities.
+  
 
 ## Additional Information
 
-For additional information or inquiries about our security practices, please contact [security@example.com](mailto:security@example.com).
+For additional information or inquiries about our security practices, please contact security@revizto.com

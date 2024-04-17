@@ -1,7 +1,8 @@
 ![GitHub Logo](https://revizto.com/wp-content/uploads/2020/07/revizto-logo.png)
 # Project Name
 
-A short description of your project and what it does.
+Revizto unifies BIM intelligence and makes it immediately accessible and actionable for the entire project team. With Revizto’s advanced Issue Tracker project team members can identify and manage model-based issues in the 3D space and 2D sheets, including addressing clash groups. Revizto provides unified access to a project’s data both for 2D and 3D workflows, so anyone can use it depending on project requirements.
+Our website https://revizto.com
 
 ## Table of Contents
 
@@ -14,33 +15,19 @@ A short description of your project and what it does.
 * [License](#license)
 * [Contact](#contact)
 
-## About the Project
-
-A more detailed explanation of your project, its purpose, and its functionalities. 
 
 ## Getting Started
 
-This section guides users on how to set up and run your project.
-
-### Prerequisites
-
-List any software or libraries required to use your project.
+[All setup guidlines could be found here.](https://help.revizto.com/hc/en-us/categories/360000126056-Getting-started)
 
 ### Installation
 
-Explain how to install your project. Include commands or steps for different operating systems if necessary.
+[All installation giudes can be found here.](https://help.revizto.com/hc/en-us/articles/360001466955-Installing-Revizto)
 
-## Usage
-
-Provide instructions on how to use the project's features. You can include code examples, screenshots, or links to tutorials.
-
-## Contributing
-
-If you welcome contributions to your project, outline the contribution guidelines here. Mention how to submit pull requests, code style guide, and testing procedures.
 
 ## License
 
-Specify the license under which your project is distributed.
+[Project license](https://revizto.com/en/eula/)
 
 ## Contact
 

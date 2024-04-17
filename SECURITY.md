@@ -15,6 +15,9 @@ Upon receiving your report, we will follow these general steps:
 2. **Fixing the Vulnerability:** Once confirmed, our development team will work on fixing the vulnerability. We will strive to provide timely updates on the progress.
 
 3. **Release and Notification:** After fixing the vulnerability, we will release patches or updates as necessary. We will notify users and contributors about the issue and the steps they need to take, if any, to remain secure.
+
+## Security Policies
+Revizto SA Vulnerability Disclosure Policy & Revizto SA Vulnerability Triage and Remediation Procedures can be found at [Revizto Trust Center](https://security.revizto.com/resources)
   
 ## Additional Information
 
